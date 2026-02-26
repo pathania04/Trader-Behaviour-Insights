@@ -1,6 +1,6 @@
 # 📊 Trader Behaviour Insights — Fear vs Greed Analysis
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project analyzes trader behavior using historical trading data combined with the **Fear & Greed Index** to understand how market sentiment impacts trading performance, decision-making, and risk behavior.
 
@@ -59,7 +59,7 @@ Market sentiment classification:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The project follows a structured data analytics workflow:
 
@@ -103,7 +103,7 @@ A machine learning model was built to predict trader profitability using:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Trader profitability varies significantly across sentiment conditions.
 * Position sizes tend to increase during **Greed** periods.
@@ -113,7 +113,7 @@ A machine learning model was built to predict trader profitability using:
 
 ---
 
-## 💡 Strategy Recommendations
+## Strategy Recommendations
 
 * Reduce position size during extreme greed markets.
 * Use contrarian opportunities during fear periods.
@@ -122,7 +122,7 @@ A machine learning model was built to predict trader profitability using:
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 The notebook generates multiple visualizations:
 
@@ -136,6 +136,3 @@ The notebook generates multiple visualizations:
 
 ---
 
-## ⭐ If You Like This Project
-
-Give this repository a star ⭐ to support the work!
